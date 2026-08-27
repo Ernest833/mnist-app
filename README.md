@@ -1,6 +1,1 @@
 "# mnist-app" 
-"# mnist-app" 
-"# mnist-app" 
-"# mnist-app" 
-"# mnist-app" 
-"# mnist-app" 
